@@ -1,5 +1,7 @@
 # INDIA GENERAL ELECTIONS RESULT ANALYSIS 2024
 
+![image alt]()
+
 ## Objective
 The goal of this project is to analyze the results of the India General Elections 2024 and to identify key trends, voter demographics, and regional variations in voting patterns. Based on this analysis, the project aims to provide insights into the political landscape and recommend strategies for future electoral campaigns.
 
